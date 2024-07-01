@@ -13,5 +13,5 @@ Example response:
 }
 ```
 Location and temperature details are obtained from [WeatherApi](https://www.weatherapi.com/). The code is 
-deployed on an AWS EC2 instance and can be accessed via the endpoint:
+deployed on an AWS EC2 instance and can be accessed via the GET endpoint:
 `http://ec2-3-80-223-233.compute-1.amazonaws.com:8080/api/hello?visitor_name="Mark"`
